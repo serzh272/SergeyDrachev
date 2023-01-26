@@ -6,11 +6,7 @@
 
 ### Языки программирования, фреймворки:
 
-<img src="icons/kotlin.svg" alt="drawing" height="30" width=70/>
-<img src="icons/java.svg" alt="drawing" height="50" width=50/>
-<img src="icons/C_sharp.png" alt="drawing" height="30"/>
-<img src="icons/iso_c++.svg" alt="drawing" height="30" width=50/>
-<img src="icons/python.svg" alt="drawing" height="30"/>
+<img src="icons/kotlin.svg" alt="drawing" height="30" width=70/> <img src="icons/java.svg" alt="drawing" height="50" width=50/> <img src="icons/C_sharp.png" alt="drawing" height="30"/> <img src="icons/iso_c++.svg" alt="drawing" height="30" width=50/> <img src="icons/python.svg" alt="drawing" height="30"/>
 <br/>
 <br/>
 
