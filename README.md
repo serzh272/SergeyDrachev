@@ -21,7 +21,7 @@
 - Hilt (Dagger);
 - Room;
 - OkHttp3, Retrofit, Gson, Moshi;
-- Mapbox 9/10 SDK;
+- Mapbox SDK v9/v10;
 - Firebase;
 - Custom View / Canvas drawing (Compose)
 - Figma.
