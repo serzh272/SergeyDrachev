@@ -14,16 +14,19 @@
 
 - Android SDK;
 - Workmanager;
-- Navigation Component;
-- Glide, Picasso;
-- Jetpack Compose/MVVM;
+- CameraX;
+- Navigation Component, Cicerone, Fragment transaction;
+- Glide, Picasso, Coil;
+- Jetpack Compose (MVVM, MVI);
 - Kotlin coroutines, Flow;
-- Hilt (Dagger);
+- Lifecycle-Aware Components;
+- Hilt (Dagger2), Koin;
 - Room;
 - OkHttp3, Retrofit, Gson, Moshi;
 - Mapbox SDK v9/v10;
 - Firebase;
 - Custom View / Canvas drawing (Compose)
+- RegEx;
 - Figma.
 
 
